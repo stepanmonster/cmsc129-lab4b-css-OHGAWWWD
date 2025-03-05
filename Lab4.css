@@ -1,0 +1,39 @@
+* {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    max-width: 12%;
+    width: 100px;
+}
+
+.coffeeImg {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.about {
+    background-color: lightgreen;
+}
+
+/* 
+LABORATORY EXERCISE #4
+Your task is to edit this CSS file and design the different web pages (delete the dummy/test code). 
+You are NOT allowed to modify/change the HTML files.
+
+Tips: 
+1. There are some elements that have no classes at all (such as the list of steps in making coffee), to style them, 
+you can use contextual selectors or attribute selectors to select them for styling
+2. Just with any web design project, it's best to draft a wireframe first before you start working with the CSS.
+3. You do not have to select all the classes/ids in the web pages; 
+the main goal is to create a website that is both visually appealing and user-friendly.
+*/
